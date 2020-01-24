@@ -26,4 +26,6 @@ The Lumen framework is open-sourced software licensed under the [MIT license](ht
 =======
 # app_sewa_lapang_badminton
 Lumen API
+
+Demo API : http://uassusep.000webhostapp.com/
 >>>>>>> cd68910b812619e722fcba45f9e869917fe5df1d
